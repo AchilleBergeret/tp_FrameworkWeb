@@ -1,6 +1,28 @@
 {
-    "cities": [
-        {"id": "042ffd34-d989-321c-ad06", "name": "Toulouse"},
-        {"id": "823ffd34-e789-321c-gf88", "name": "Albi"}
-    ]
+  "cities": [
+    {
+      "id": "823ffd34-e789-321c-gf88",
+      "name": "Albi"
+    },
+    {
+      "id": "fde13bd5-0254-4185-9818-bbbc9bdd0760",
+      "name": "Nancy"
+    },
+    {
+      "id": "202d04ed-f787-4c86-b9c6-69bb6c4b9b5c",
+      "name": "nice"
+    },
+    {
+      "id": "24ebd2e3-955c-4e5d-859a-192d30ac05c8",
+      "name": "lyon"
+    },
+    {
+      "id": "e6403b4f-fa60-4917-974c-fe2a11da21ce",
+      "name": "Toulouse"
+    },
+    {
+      "id": "082db847-c072-4d42-bdcd-1f00a65c8e9d",
+      "name": "Troyes"
+    }
+  ]
 }
