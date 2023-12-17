@@ -1,0 +1,6 @@
+{
+    "cities": [
+        {"id": "user1", "name": "Toulouse"},
+        {"id": "user2", "name": "Toulouse"}
+    ]
+}

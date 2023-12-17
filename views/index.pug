@@ -1,0 +1,18 @@
+- var title = "Voici le contenu du fichier";
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/style.css')
+  body
+  h1=title 
+    table
+      thead
+        tr
+          th Identifiant
+          th Ville
+      tbody
+        each row in data
+          tr
+            td= row.Identifiant
+            td= row.Ville

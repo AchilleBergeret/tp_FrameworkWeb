@@ -1,0 +1,28 @@
+table {
+  /*border-collapse: collapse;*/
+  width: 100%;
+  border-bottom-color: black;
+  /*
+  border: 1px solid black;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-color: black;
+*/
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid black;
+  font-family:sans-serif;
+
+}
+
+th {
+  background-color: blue;
+  color: white;
+  border-bottom: 10px;
+}
+td {
+  background-color: #D8CAFA ;
+}
